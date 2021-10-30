@@ -23,8 +23,8 @@ Me encanta aprender siempre cosas nuevas y enfrentarme a desafíos que pongan a 
 <h2>Proyectos</h2>
 <h2>Weather App</h2>
 <p display="flex" justifyContent="space-around">
-  <img height= "360" width ="900"src="./Weather App/Home.jpeg" alt="Home"/>
-    <img height= "360" width ="900"src="./Weather App/Detalle.jpeg" alt="Detalle"/>
+  <img height= "100" width ="450"src="./Weather App/Home.jpeg" alt="Home"/>
+    <img height= "100" width ="450"src="./Weather App/Detalle.jpeg" alt="Detalle"/>
 
 </p>
 
