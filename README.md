@@ -26,7 +26,7 @@ Me encanta aprender siempre cosas nuevas y enfrentarme a desafíos que pongan a 
   <img height= "200" width ="400"src="./Poke App/LandingPage.jpeg" alt="LandingPage"/>
   <img height= "200" width ="400"src="./Poke App/Loading.jpeg" alt="Loading"/>
   <img height= "200" width ="400"src="./Poke App/Home.jpeg" alt="Home"/>
-  <img height= "200" width ="400"src="./Poke App/Detalle.jpeg" alt="Detalle"/>
+  <img height= "200" width ="400"src="./Poke App/Detail.jpeg" alt="Detail"/>
   <img height= "200" width ="400"src="./Poke App/Create.jpeg" alt="Create"/>
 </p>
 <h2>Weather App</h2>
