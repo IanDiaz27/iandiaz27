@@ -1,5 +1,5 @@
 <p align="center">
-  <img width ="500"src="./portada.png" />
+  <img height= "300" width ="500"src="./portada.png" />
 </p>
 
 <h1 align="center">Hola 👋, Soy Ian Diaz</h1>
