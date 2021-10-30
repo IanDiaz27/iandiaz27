@@ -5,8 +5,6 @@
 <h1 align="center">Hola 👋, Soy Ian Diaz</h1>
 <h3 align="center">Full Stack Developer🚀</h3>
 
-- 📫 Contactame en **iandiaz270601@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/iandiaz-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/iandiaz-dev/" height="30" width="40" /></a>
@@ -20,11 +18,11 @@
 Me encanta aprender siempre cosas nuevas y enfrentarme a desafíos que pongan a prueba mis conocimientos.</p>
 
 <h3>Experiencia🧠</h3>
-<p>👾 La mayor parte de mi experiencia fue en el ámbito académico. Fui a un secundario técnico, donde me recibí de técnico electrónico con orientación en la robotica y, actualmente estoy realizando el bootcamp de Soy Henry donde pude aprender herramientas muy poderosas como Java Script, React, Redux, Express, Node Js, Sequelize y CSS, además de desarrollar mis Soft skills, especialmente el trabajo en equipo, desarrollando varios proyectos.
+<p>👾 La mayor parte de mi experiencia fue en el ámbito académico. Fui a un secundario técnico, donde me recibí de técnico electrónico con orientación en la robotica y, actualmente estoy realizando el bootcamp de Soy Henry donde pude aprender herramientas muy poderosas como Java Script, React, Redux, Express, Node Js, Sequelize y CSS, además de desarrollar mis Soft skills, especialmente el trabajo en equipo, desarrollando varios proyectos.</p>
 
-📲 Si quieres saber mas sobre mi Contáctame! :
-💻Email: iandiaz270601@gmail.com
-📞Tel: 11-6406 1078</p>
+<h4>📲 Si quieres saber mas sobre mi Contáctame! :</h4>
+<p>💻Email: **iandiaz270601@gmail.com**</p>
+<p>📞Tel: 11-6406 1078</p>
 <!--
 **IanDiaz27/iandiaz27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
