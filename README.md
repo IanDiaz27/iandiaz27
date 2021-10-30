@@ -20,8 +20,10 @@ Me encanta aprender siempre cosas nuevas y enfrentarme a desafíos que pongan a 
 <h3>Experiencia🧠</h3>
 <p>👾 La mayor parte de mi experiencia fue en el ámbito académico. Fui a un secundario técnico, donde me recibí de técnico electrónico con orientación en la robotica y, actualmente estoy realizando el bootcamp de Soy Henry donde pude aprender herramientas muy poderosas como Java Script, React, Redux, Express, Node Js, Sequelize y CSS, además de desarrollar mis Soft skills, especialmente el trabajo en equipo, desarrollando varios proyectos.</p>
 
+<h2>Proyectos</h2>
+
 <h4>📲 Si quieres saber mas sobre mi Contáctame! :</h4>
-<p>💻Email: **iandiaz270601@gmail.com**</p>
+<p>💻Email: iandiaz270601@gmail.com</p>
 <p>📞Tel: 11-6406 1078</p>
 <!--
 **IanDiaz27/iandiaz27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
