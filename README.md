@@ -21,11 +21,18 @@ Me encanta aprender siempre cosas nuevas y enfrentarme a desafíos que pongan a 
 <p>👾 La mayor parte de mi experiencia fue en el ámbito académico. Fui a un secundario técnico, donde me recibí de técnico electrónico con orientación en la robotica y, actualmente estoy realizando el bootcamp de Soy Henry donde pude aprender herramientas muy poderosas como Java Script, React, Redux, Express, Node Js, Sequelize y CSS, además de desarrollar mis Soft skills, especialmente el trabajo en equipo, desarrollando varios proyectos.</p>
 
 <h2>Proyectos</h2>
+<h2>Poke App</h2>
+<p display="flex" justifyContent="space-around">
+  <img height= "200" width ="400"src="./Poke App/LandingPage.jpeg" alt="LandingPage"/>
+  <img height= "200" width ="400"src="./Poke App/Loading.jpeg" alt="Loading"/>
+  <img height= "200" width ="400"src="./Poke App/Home.jpeg" alt="Home"/>
+  <img height= "200" width ="400"src="./Poke App/Detalle.jpeg" alt="Detalle"/>
+  <img height= "200" width ="400"src="./Poke App/Create.jpeg" alt="Create"/>
+</p>
 <h2>Weather App</h2>
 <p display="flex" justifyContent="space-around">
   <img height= "200" width ="400"src="./Weather App/Home.jpeg" alt="Home"/>
-    <img height= "200" width ="400"src="./Weather App/Detalle.jpeg" alt="Detalle"/>
-
+  <img height= "200" width ="400"src="./Weather App/Detalle.jpeg" alt="Detalle"/>
 </p>
 
 <h4>📲 Si quieres saber mas sobre mi Contáctame! :</h4>
